@@ -1,0 +1,793 @@
+[
+  {
+    "id": "1",
+    "dapan": "UNGHOANGPHUC",
+    "tencasi": "Ưng Hoàng Phúc",
+    "goiy": "Anh từng là ca sĩ độc quyền của công ty Thế giới Giải Trí (WePro). Anh cũng từng là thành viên của nhóm 1088.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "2",
+    "dapan": "NOOPHUOCTHINH",
+    "tencasi": "Noo Phước Thịnh",
+    "goiy": "Là quán quân của The Remix (Hòa âm ánh sáng) mùa thứ 2 (2016) và là huấn luyện viên của chương trình Giọng hát Việt nhí (mùa 4).",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "3",
+    "dapan": "SONTUNGMTP",
+    "tencasi": "Sơn Tùng MTP",
+    "goiy": "Trưởng thành từ nhạc underground, Ca sĩ này bị \"nghi ngờ\" đạo nhạc nhiều lần. Các ca khúc của ca sĩ này được cho là đã lấy phần beat (nhạc nền) từ các bài hát nổi tiếng ở Hàn Quốc, Nhật Bản hay Mỹ.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "4",
+    "dapan": "MINHHANG",
+    "tencasi": "Minh Hằng",
+    "goiy": "Năm 2008, Ca sĩ này cho ra mắt album đầu tay của mình mang tên Một vòng Trái Đất",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "5",
+    "dapan": "TUANHUNG",
+    "tencasi": "Tuấn Hưng",
+    "goiy": "Nổi tiếng với các các khúc (Rêu phong, Cầu vồng khuyết,...). Đặc biệt có sở thích \"cắt gân\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "6",
+    "dapan": "MIULE",
+    "tencasi": "Miu Lê",
+    "goiy": "tên khai sinh là Lê Ánh Nhật, sinh ngày 5 tháng 7 năm 1991 tại Thành phố Hồ Chí Minh.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "7",
+    "dapan": "HOANGTHUYLINH",
+    "tencasi": "Hoàng Thuỳ Linh",
+    "goiy": "Nhật ký vàng anh",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "8",
+    "dapan": "CAOTHAISON",
+    "tencasi": "Cao Thái Sơn",
+    "goiy": "Tham gia Sao Mai Điểm Hẹn mùa đầu tiên (năm 2004) nhưng bỏ cuộc giữa chừng.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "9",
+    "dapan": "DANTRUONG",
+    "tencasi": "Đan Trường",
+    "goiy": "Anh đã từng rất rất nổi tiếng, hiện giờ là giám khảo/huấn luyện viên cho các cuộc thi âm nhạc như: Ngôi Sao Phương Nam, Thần tượng Bolero và Tuyệt Đỉnh Song Ca. Anh còn tham gia điện ảnh với bộ phim nổi bật nhất là: \"Võ lâm truyền kỳ\" (2007).",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "10",
+    "dapan": "KHOIMY",
+    "tencasi": "Khởi My",
+    "goiy": "Từng đoạt giải quán quân Gương mặt thân quen năm 2013 và giải nhất Tiếng ca học đường năm 2007. Thành công với các ca khúc như \"Vì sao\", \"Gửi cho anh\" và \"Người yêu cũ\".",
+    "theloai": "Ca sĩ/MC"
+  },
+  {
+    "id": "11",
+    "dapan": "HAANHTUAN",
+    "tencasi": "Hà Anh Tuấn",
+    "goiy": "Tham gia Sao Mai Điểm Hẹn 2006, tên viết tắt là H.A.T",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "12",
+    "dapan": "BANGKIEU",
+    "tencasi": "Bằng Kiều",
+    "goiy": "Nhóm nhạc Quả dưa hấu.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "13",
+    "dapan": "KHONGTUQUYNH",
+    "tencasi": "Khổng Tú Quỳnh",
+    "goiy": "Có nickname là \"cô bé Dâu Tây\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "14",
+    "dapan": "SOOBINHOANGSON",
+    "tencasi": "Soobin Hoàng Sơn",
+    "goiy": "Phía sau một cô gái.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "15",
+    "dapan": "UNGDAIVE",
+    "tencasi": "Ưng Đại Vệ",
+    "goiy": "Từng là 1 thành viên ban nhạc đình đám GMC. ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "16",
+    "dapan": "QUANGLINH",
+    "tencasi": "Quang Linh",
+    "goiy": "Thành công với các ca khúc: Chim sáo ngày xưa, Ai ra xứ Huế,... ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "17",
+    "dapan": "TIMCATVU",
+    "tencasi": "TIM (Cát Vũ)",
+    "goiy": "Tên khai sinh: Trần Nguyên Cát Vũ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "18",
+    "dapan": "THUMINH",
+    "tencasi": "Thu Minh",
+    "goiy": "Từng đoạt danh hiệu \"Nữ hoàng Khiêu vũ\" - ngôi vô địch - trong chương trình Bước Nhảy Hoàn Vũ 2011. Năm 2012, Làm giám khảo kiêm huấn luyện viên trong chương trình Giọng hát Việt.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "19",
+    "dapan": "PHANDINHTUNG",
+    "tencasi": "Phan Đình Tùng",
+    "goiy": "Thành viên ban nhạc MTV, sau đó tách ra solo đến bây giờ.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "20",
+    "dapan": "DUYMANH",
+    "tencasi": "Duy Mạnh",
+    "goiy": "Nổi danh với ca khúc \"Kiếp đỏ đen\". Là \"bạn thân\" với một cựu thành viên nhóm nhạc Quả dưa hấu.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "21",
+    "dapan": "LEQUYEN",
+    "tencasi": "Lệ Quyên",
+    "goiy": "Một loạt các bài hit đóng đinh tên tuổi như: Giấc mơ có thật, Hãy trả lời em, Thôi đừng chiêm bao,...",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "22",
+    "dapan": "DANGKHOI",
+    "tencasi": "Đăng Khôi",
+    "goiy": "Hát song ca bài hát: \"Cô bé mùa đông\" với Thuỷ Tiên.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "23",
+    "dapan": "HOANGBACH",
+    "tencasi": "Hoàng Bách",
+    "goiy": "Cự thành viên nhóm AC&M",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "24",
+    "dapan": "HOQUYNHHUONG",
+    "tencasi": "Hồ Quỳnh Hương",
+    "goiy": "Quê Quảng Ninh. Hiện tại cô là giảng viên chuyên ngành thanh nhạc tại Đại học Văn hóa - Nghệ thuật Quân đội.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "25",
+    "dapan": "PHANMANHQUYNH",
+    "tencasi": "Phan Mạnh Quỳnh",
+    "goiy": "Là tác giả của nhiều ca khúc hit như:\n- Người yêu cũ,\n- Mình từng yêu nhau,\n- Bước qua thế giới...",
+    "theloai": "Nhạc sĩ/Ca sĩ"
+  },
+  {
+    "id": "26",
+    "dapan": "THANHTHAO",
+    "tencasi": "Thanh Thảo",
+    "goiy": "Là một ca sĩ nhạc nhẹ Việt Nam với biệt danh \"Búp bê\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "27",
+    "dapan": "TRANLAP",
+    "tencasi": "Trần Lập",
+    "goiy": "Người anh cả của nhạc Rock ở Việt Nam\nTuy anh tuy đã ra đi nhưng các các khúc bất hủ của anh vẫn còn mãi trong lòng người hâm mộ.",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "28",
+    "dapan": "QUANGHA",
+    "tencasi": "Quang Hà",
+    "goiy": "Sinh năm 1981 tại Hà Nội. Các album đã phát hành: Con đường thênh thang, Nếu còn trở lại, Bướm trắng,...",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "29",
+    "dapan": "NGOCSON",
+    "tencasi": "Ngọc Sơn",
+    "goiy": "Được biết đến với danh xưng là \"ông hoàng nhạc sến\".",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "30",
+    "dapan": "KHANHLY",
+    "tencasi": "Khánh Ly",
+    "goiy": "Là một ca sĩ Việt Nam nổi tiếng, giọng nữ trầm (alto). Bắt đầu sự nghiệp ca hát từ những năm 1960, gắn liền với các ca khúc của Trịnh Công Sơn",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "31",
+    "dapan": "DANNGUYEN",
+    "tencasi": "Đan Nguyên",
+    "goiy": "Là một ca sĩ hải ngoại thành công với dòng nhạc trữ tình trước 1975, hiện cộng tác với Trung tâm Thúy Nga từ đầu năm 2016.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "32",
+    "dapan": "PHAMQUYNHANH",
+    "tencasi": "Phạm Quỳnh Anh",
+    "goiy": "Thành viên điệu nhất nhóm nhạc HAT.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "33",
+    "dapan": "DUCPHUC",
+    "tencasi": "Đức Phúc",
+    "goiy": "Là quán quân Giọng hát Việt mùa 3 đồng thời là sinh viên trường Đại học Xây dựng Hà Nội.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "34",
+    "dapan": "DUONGNGOCTHAI",
+    "tencasi": "Dương Ngọc Thái",
+    "goiy": "Ca sĩ dòng nhạc trữ tình dân ca. Năm 2003, phát hành album \"Hương sắc miền nam\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "35",
+    "dapan": "HOANGRAPPER",
+    "tencasi": "Hoàng Rapper",
+    "goiy": "Hát song ca với Khởi My ca khúc \"Vì Sao\"",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "36",
+    "dapan": "LAMCHANKHANG",
+    "tencasi": "Lâm Chấn Khang",
+    "goiy": "Những ca khúc nổi tiếng như Ở phương đó hãy tha thứ cho anh, Nụ hôn lạnh, Sóng gió học đường,…",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "37",
+    "dapan": "PHAMHONGPHUOC",
+    "tencasi": "Phạm Hồng Phước",
+    "goiy": "Sau khi cho ra mắt đĩa đơn online là “Khi người lớn cô đơn” vào ngày 26/7/2014. Đến tháng 11, thì ca sĩ cho ra mắt đĩa đơn tiếp theo đó là “Giá có thể ôm ai và khóc”.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "38",
+    "dapan": "LAMCHIKHANH",
+    "tencasi": "Lâm Chí Khanh",
+    "goiy": "Đã từng là 1 nam ca sĩ nhưng đến hiện tại đã lột xác thành một nữ ca sĩ.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "39",
+    "dapan": "DUONGTRIEUVU",
+    "tencasi": "Dương Triệu Vũ",
+    "goiy": "Em ruột danh hài Hoài Linh",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "40",
+    "dapan": "QUACHTHANHDANH",
+    "tencasi": "Quách Thành Danh",
+    "goiy": "Tên thật là Văn Thanh Tùng, nổi tiếng với ca khúc: Tôi là tôi.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "41",
+    "dapan": "TRUCNHAN",
+    "tencasi": "Trúc Nhân",
+    "goiy": "Được yêu thích với ca khúc: Bốn chữ lắm",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "42",
+    "dapan": "THAITRINH",
+    "tencasi": "Thái Trinh",
+    "goiy": "Sinh năm 1993\nGiải nhất cuộc thi Apollo English Idol.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "43",
+    "dapan": "TIENTIEN",
+    "tencasi": "Tiên Tiên",
+    "goiy": "tên thật là Huỳnh Nữ Thủy Tiên",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "44",
+    "dapan": "TIEUCHAUNHUQUYNH",
+    "tencasi": "Tiêu Châu Như Quỳnh",
+    "goiy": "Là cháu gái của ca sĩ Lam Trường",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "45",
+    "dapan": "PHANANH",
+    "tencasi": "Phan Anh",
+    "goiy": "Là MC kiêm diễn viên nhưng lại rất thành công trong 1 \"startup\" ủng hộ đồng bào miền lũ. :))",
+    "theloai": "MC/Diễn viên"
+  },
+  {
+    "id": "46",
+    "dapan": "CONGLY",
+    "tencasi": "Công Lý",
+    "goiy": "Nghệ sĩ hài miền bắc đã được phong NSƯT với lối diễn xuất mộc mạc chân chất đi vào lòng người.",
+    "theloai": "Nghệ sĩ hài"
+  },
+  {
+    "id": "47",
+    "dapan": "AKIRAPHAN",
+    "tencasi": "Akira Phan",
+    "goiy": "tên thật là Phan Võ Thanh Hùng, xuất hiện ở làng nhạc Việt với phong cách ca sĩ Nhật Bản.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "48",
+    "dapan": "BANGCUONG",
+    "tencasi": "Bằng Cường",
+    "goiy": "Sinh ra trong một gia đình có truyền thống nghệ thuật (là cháu của nghệ sĩ Saxophone Trần Mạnh Tuấn). Hiện tại có vợ là DJ Oxy",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "49",
+    "dapan": "BAOTHY",
+    "tencasi": "Bảo Thy",
+    "goiy": "Công chúa bong bóng",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "50",
+    "dapan": "CHELINH",
+    "tencasi": "Chế Linh",
+    "goiy": "Ông nổi danh từ thập niên 60 với nhạc vàng từ thời kỳ đầu.\nNăm 1964, Ông hợp tác với công ty Continental ra đời dĩa nhạc đầu tay “Vùng Biển Trời Và Màu Áo Em”.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "51",
+    "dapan": "CUONGSEVEN",
+    "tencasi": "Cường Seven",
+    "goiy": "Từng là người yêu của Chipu",
+    "theloai": "Ca sĩ/Dancer"
+  },
+  {
+    "id": "52",
+    "dapan": "DOANTRANG",
+    "tencasi": "Đoan Trang",
+    "goiy": "Có biệt danh là Sôcôla.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "53",
+    "dapan": "HARIWON",
+    "tencasi": "Hari Won",
+    "goiy": "Cô gái gốc Hàn Quốc, sau khi lấy chồng thì nổi tiếng đến tận bây giờ :))",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "54",
+    "dapan": "HOAMINZY",
+    "tencasi": "Hoà Minzy",
+    "goiy": "Cô ca sĩ nhỏ nhắn nổi tiếng nhất với hình xăm người yêu trên vùng ngực :D",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "55",
+    "dapan": "WANBITUANANH",
+    "tencasi": "Wanbi Tuấn Anh",
+    "goiy": "Chàng ca sĩ bạc mệnh nổi tiếng với ca khúc :\"Đôi mắt\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "56",
+    "dapan": "ANHKIET",
+    "tencasi": "Anh Kiệt",
+    "goiy": "Ca sĩ được đánh giá đẹp trai nhất nhóm GMC ngày xưa.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "57",
+    "dapan": "BAOANH",
+    "tencasi": "Bảo Anh",
+    "goiy": "Bạn gái ca sĩ Hồ Quang Hiếu.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "58",
+    "dapan": "BUIANHTUAN",
+    "tencasi": "Bùi Anh Tuấn",
+    "goiy": "Vụt sáng từ vòng \"Giấu mặt\" The Voice với hit \"Nơi tình yêu bắt đầu\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "59",
+    "dapan": "CANHMINH",
+    "tencasi": "Cảnh Minh",
+    "goiy": "Được biết đến qua ca khúc \"Có không giữ mất đừng tìm\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "60",
+    "dapan": "CHIENTHANG",
+    "tencasi": "Chiến Thắng",
+    "goiy": "Nghệ sĩ hài miền bắc quê Vĩnh Phúc. Nổi tiếng với tiểu phẩm Nói xấu vợ.",
+    "theloai": "Diễn viên Hài"
+  },
+  {
+    "id": "61",
+    "dapan": "DAINHAN",
+    "tencasi": "Đại Nhân",
+    "goiy": "Được biết đến qua ca khúc \"Tiết học cuối cùng\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "62",
+    "dapan": "DINHMANHNINH",
+    "tencasi": "Đinh Mạnh Ninh",
+    "goiy": "Thành viên khá nổi tiếng của nhóm M4U.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "63",
+    "dapan": "KHANHDON",
+    "tencasi": "Khánh Đơn",
+    "goiy": "Cựu thành viên nhóm Huyền Thoại\nChồng ca sĩ Lương Bích Hữu",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "64",
+    "dapan": "THIEUBAOTRAM",
+    "tencasi": "Thiều Bảo Trâm",
+    "goiy": "Ca sĩ quê Thanh Hoá, được cho là người yêu của Sơn Tùng MTP",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "65",
+    "dapan": "UYENLINH",
+    "tencasi": "Uyên Linh",
+    "goiy": "Sinh năm 1987 là một nữ ca sĩ người Việt Nam; cô là người chiến thắng danh hiệu Vietnam Idol 2010",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "66",
+    "dapan": "ANHKHANG",
+    "tencasi": "Anh Khang",
+    "goiy": "Nổi tiếng với ca khúc \"Anh mơ\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "67",
+    "dapan": "CHITRUNG",
+    "tencasi": "Chí Trung",
+    "goiy": "Xuất hiện với nhiều vai diễn hài ấn tượng. Đặc biệt ghi dấu ấn đậm nét trong lòng khán giả với vai diễn Táo giao thông trong Táo quân.",
+    "theloai": "Nghệ Sĩ Hài"
+  },
+  {
+    "id": "68",
+    "dapan": "DONGNHI",
+    "tencasi": "Đông Nhi",
+    "goiy": "Tên thật là Mai Hồng Ngọc, sinh ngày 13 tháng 10 năm 1988 là một nữ ca sĩ người Việt Nam. Cô được xem là một trong số những ca sĩ đầu tiên của phong trào ca sĩ bước ra từ thế giới ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "69",
+    "dapan": "HAIBANG",
+    "tencasi": "Hải Băng",
+    "goiy": "Tên tuổi gắn với ca khúc \"Viên đá nhỏ\". Từng là người yêu của 1 thành viên nhóm The Men.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "70",
+    "dapan": "HOQUANGHIEU",
+    "tencasi": "Hồ Quang Hiếu",
+    "goiy": "Ca sĩ thể hiện bài hát \"Con bướm xuân\" remix khá thành công và được nhiều bạn trẻ đón nhận.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "71",
+    "dapan": "HUAVIVAN",
+    "tencasi": "Hứa Vĩ Văn",
+    "goiy": "Đã từng là một thành viên nhóm GMC. Hiện tại chủ yếu theo nghiệp diễn. Xuất hiện trong bộ phim nổi tiếng của giới trẻ \"Chàng trai năm ấy\".",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "72",
+    "dapan": "KHACVIET",
+    "tencasi": "Khắc Việt",
+    "goiy": "Xuất hiện với hàng loạt hit: Yêu lại từ đầu, Em làm gì tối nay, Anh khác hay em khác.",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "73",
+    "dapan": "TRONGTAN",
+    "tencasi": "Trọng Tấn",
+    "goiy": "Ca sĩ hát nhạc đỏ nổi tiếng cả nước. Nổi tiếng với ca khúc \"Màu hoa đỏ\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "74",
+    "dapan": "TUANNGOC",
+    "tencasi": "Tuấn Ngọc",
+    "goiy": "Ông sinh năm 1947 tại Đà Lạt, trong một gia đình nghệ sĩ. Cha là nghệ sĩ Lữ Liên, thành viên ban nhạc hài hước AVT.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "75",
+    "dapan": "YASUY",
+    "tencasi": "YaSuy",
+    "goiy": "Ca sĩ người dân tộc, anh là người chiến thắng tại cuộc thi Vietnam Idol 2012",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "76",
+    "dapan": "BINHTRONG",
+    "tencasi": "Bình Trọng",
+    "goiy": "nam diễn viên quen mặt với khán giả truyền hình qua những vai hài bình dân, lúc thì là anh nông dân, khi lại là anh xe ôm, bảo vệ…. Tên thân mật \"Trọng con\"",
+    "theloai": "Diễn viên hài"
+  },
+  {
+    "id": "77",
+    "dapan": "CAMLY",
+    "tencasi": "Cẩm Ly",
+    "goiy": "Cô là con thứ ba (vì vậy thường được các fan hâm mộ gọi là Chị Tư theo thông lệ miền Nam) trong một gia đình có 6 anh chị em, trong đó 2 em gái Hà Phương và Minh Tuyết",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "78",
+    "dapan": "DAOBALOC",
+    "tencasi": "Đào Bá Lộc",
+    "goiy": "Xuất hiện trước khán giả qua ca khúc Criminal trình diễn lần đầu tại Giọng Hát Việt 2012 ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "79",
+    "dapan": "HIENTHUC",
+    "tencasi": "Hiền Thục",
+    "goiy": "(sinh năm 1981) là một nữ ca sĩ nhạc nhẹ Việt Nam đương đại. Có Single Nhật ký của mẹ (2012)",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "80",
+    "dapan": "HONGOCHA",
+    "tencasi": "Hồ Ngọc Hà",
+    "goiy": "Đi lên từ người mẫu hiện nay là ca sĩ khá nổi tiếng và được coi là nữ hoàng Scandal ở Việt Nam.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "81",
+    "dapan": "JIMMYNGUYEN",
+    "tencasi": "Jimmy Nguyễn",
+    "goiy": "Tên thường gọi bắt đầu bằng từ Jimmy - sau đó là đến họ.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "82",
+    "dapan": "QUANGLE",
+    "tencasi": "Quang Lê",
+    "goiy": "Ca sĩ hát nhạc vàng nổi tiếng ở hải ngoại. Đã từng mối quan hệ tình cảm với hotgirl Thanh Bi",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "83",
+    "dapan": "TOCTIEN",
+    "tencasi": "Tóc Tiên",
+    "goiy": "Sinh năm 1989\nNăm 2015,về Việt Nam tham gia chương trình truyền hình thực tế Hòa âm Ánh sáng.\nNăm 2017 Giám khảo chương trình The Voice.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "84",
+    "dapan": "TRANTHUHA",
+    "tencasi": "Trần Thu Hà",
+    "goiy": "Cô sinh ra trong một gia đình có truyền thống nghệ thuật, cha cô là ca sĩ, nghệ sĩ nhân dân Trần Hiếu\nCô là 1 trong 4 diva của Việt Nam",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "85",
+    "dapan": "TRONGHIEUIDOL",
+    "tencasi": "Trọng Hiếu Idol",
+    "goiy": "sinh năm 1992 tại thành phố Bad Kissingen, Đức) là một ca sĩ, vũ công, diễn viên người Đức gốc Việt. Anh từng đoạt các giải của cuộc thi Dance4Fans tại Đức và châu Âu, và đoạt giải quán quân của Vietnam Idol 2015",
+    "theloai": "Ca sĩ/vũ công"
+  },
+  {
+    "id": "86",
+    "dapan": "CHAUVIETCUONG",
+    "tencasi": "Châu Việt Cường",
+    "goiy": "Là ca sĩ hay đi hát hội chợ. Ca khúc nổi tiếng: Từ trên trời rơi xuống...",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "87",
+    "dapan": "DAMVINHHUNG",
+    "tencasi": "Đàm Vĩnh Hưng",
+    "goiy": "Là một trong những ca sĩ có cát-xê cao nhất Việt Nam, nhưng cũng được biết là một ca sĩ dính líu đến nhiều vụ bê bối, hay phát ngôn và gây ra nhiều bàn tán trên báo chí\nĐược báo chí gọi là ông hoàng nhạc Việt.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "88",
+    "dapan": "HOAILINH",
+    "tencasi": "Hoài Linh",
+    "goiy": "Là danh hài rất nổi tiếng và được nhiều người quý trọng.\nLà giám khảo chương trình Ơn giời! Cậu đây rồi mùa 1,2",
+    "theloai": "Nghệ sĩ hài"
+  },
+  {
+    "id": "89",
+    "dapan": "NHATKIMANH",
+    "tencasi": "Nhật Kim Anh",
+    "goiy": "Tên thật Đỗ Thị Kim Huê (sinh ngày 15 tháng 8 năm 1985)\nCa khúc nổi tiếng: \"Lâu đài cát\"...",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "90",
+    "dapan": "QUANGVINH",
+    "tencasi": "Quang Vinh",
+    "goiy": "Ca sĩ với biệt danh Hoàng tử sơn ca",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "91",
+    "dapan": "TRINHDINHQUANG",
+    "tencasi": "Trịnh Đình Quang",
+    "goiy": "Đã làm nên nhiều bản hit đình đám như \"Thất tình\", \"Nếu em còn tồn tại\", \"Thế giới ảo tình yêu thật\"...",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "92",
+    "dapan": "TUNGDUONG",
+    "tencasi": "Tùng Dương",
+    "goiy": "Anh được biết đến từ cuộc thi Sao Mai điểm hẹn năm 2004, trong đó anh đã giành chiến thắng với giải thưởng do Hội đồng nghệ thuật bình chọn.\nAnh thường hay hát các bài hát của Lê Minh Sơn. ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "93",
+    "dapan": "XUANBAC",
+    "tencasi": "Xuân Bắc",
+    "goiy": "Anh là nghệ sĩ hài rất nổi tiếng của miền Bắc. A chính là Nam Tào trong chương trình táo quân tết của VTV",
+    "theloai": "Nghệ sĩ hài/Diễn viên"
+  },
+  {
+    "id": "94",
+    "dapan": "YPHUNG",
+    "tencasi": "Y Phụng",
+    "goiy": "Cô bắt đầu nổi tiếng hơn với sự nghiệp điện ảnh khi đóng chung với Lý Hùng nhiều bộ phim như Riêng chỉ có anh, Đời vũ nữ... Vai diễn đầu tiên của cô là vai phụ trong phim Những cánh hoa dại.",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "95",
+    "dapan": "TRUNGQUANIDOL",
+    "tencasi": "Trung Quân Idol",
+    "goiy": "Ca sĩ trẻ chuyên hát các bài hát về mưa. Được cư dân mạng đặt cho biệt danh \"Hoàng tử mưa\"",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "96",
+    "dapan": "CAOBAHUNG",
+    "tencasi": "Cao Bá Hưng",
+    "goiy": "Quán quân cuộc thi Sing My Song mùa đầu tiên",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "97",
+    "dapan": "HOAILAM",
+    "tencasi": "Hoài Lâm",
+    "goiy": "Được công chúng Việt Nam đặc biệt chú ý sau khi giành giải quán quân chương trình truyền hình thực tế \"Gương mặt thân quen\" mùa thứ 2 (năm 2014)",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "98",
+    "dapan": "HOANGTON",
+    "tencasi": "Hoàng Tôn",
+    "goiy": "Nhạc sĩ/Ca sĩ Hoàng Tôn",
+    "theloai": "Nhạc sĩ/Ca sĩ"
+  },
+  {
+    "id": "99",
+    "dapan": "LEHIEU",
+    "tencasi": "Lê Hiếu",
+    "goiy": "Sinh năm 1984 tại Hà Nội, là một ca sĩ thuộc dòng nhạc nhẹ của Việt Nam.\nHit \"Con đường màu xanh\" hát cùng Lệ Quyên",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "100",
+    "dapan": "THANHTRUNG",
+    "tencasi": "Thành Trung",
+    "goiy": "Là 1 diễn viên hài miền bắc. Là 1 trong 2 MC của chương trình \"Chém chuối cuối tuần\".\nHiện giờ cũng là MC cho khá nhiều chương trình",
+    "theloai": "Diễn viên hài/MC"
+  },
+  {
+    "id": "101",
+    "dapan": "TRUONGQUYNHANH",
+    "tencasi": "Trương Quỳnh Anh",
+    "goiy": "Tham gia phim \"Bóng ma học đường\" cùng ca sĩ TIM và hiện h cũng là bà xã của TIM",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "102",
+    "dapan": "TULONG",
+    "tencasi": "Tự Long",
+    "goiy": "Là nghệ sĩ hài nổi tiếng miền bắc nhưng đi lên từ diễn viên chèo. Hiện nay đã được phong NSND khi tuổi đời vẫn còn trẻ.",
+    "theloai": "Nghệ sĩ hài"
+  },
+  {
+    "id": "103",
+    "dapan": "VANQUANGLONG",
+    "tencasi": "Vân Quang Long",
+    "goiy": "Từng là một thành viên nhóm 1088 nổi tiếng. Ca sĩ quê Đồng Tháp thể loại nhạc ưa thích là dân ca trữ tình",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "104",
+    "dapan": "VUDUYKHANH",
+    "tencasi": "Vũ Duy Khánh",
+    "goiy": "Có bố là NSƯT Minh Hải diễn viên nhà hát cải lương Hà Nội.\nCác ca khúc nổi tiếng \"Vợ Yêu\", \"Chúc vợ ngủ ngon\",...",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  },
+  {
+    "id": "105",
+    "dapan": "VUHA",
+    "tencasi": "Vũ Hà",
+    "goiy": "Được dân mạng gọi là \"Thím Hà\"\nCác ca khúc nổi tiếng như: \"Búp bê chaomiao\",...",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "106",
+    "dapan": "CHITHIEN",
+    "tencasi": "Chí Thiện",
+    "goiy": "(sinh ngày 5 tháng 4 năm 1988) là một nam ca sĩ, diễn viên và người dẫn chương trình người Việt Nam. Anh có biệt danh Hoàng Tử Lai, chính vì mang 2 dòng máu Việt và Thái (mẹ là người Thái).",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "107",
+    "dapan": "HOANGHAI",
+    "tencasi": "Hoàng Hải",
+    "goiy": "Năm 2006, đoạt giải ca sĩ được yêu thích nhất của cuộc thi Sao mai Điểm hẹn do Đài Truyền hình Việt Nam tổ chức.",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "108",
+    "dapan": "KASIMHOANGVU",
+    "tencasi": "KaSim Hoàng Vũ",
+    "goiy": "Ca sĩ Kasim Hoàng Vũ",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "109",
+    "dapan": "QUANGDUNG",
+    "tencasi": "Quang Dũng",
+    "goiy": "là một ca sĩViệt Nam dòng nhạc nhẹ, nhạc trữ tình, nhạc tiền chiến và nhạc Trịnh Công Sơn.\nCa khúc tiêu biểu: \"Còn ta với nồng nàn\".",
+    "theloai": "Ca sĩ/Diễn viên"
+  },
+  {
+    "id": "110",
+    "dapan": "TRUNGHIEU",
+    "tencasi": "Trung Hiếu",
+    "goiy": "Là 1 nghệ sĩ đa tài của việt nam tham gia cả 2 thể loại chính kịch và hài kịch.\nNổi tiếng với vai ông Tích trong \"Đại gia chân đất\".",
+    "theloai": "Nghệ sĩ hài/Diễn viên"
+  },
+  {
+    "id": "111",
+    "dapan": "TRUONGVU",
+    "tencasi": "Trường Vũ",
+    "goiy": "Ca sĩ Trường Vũ sinh ngày 25 tháng 2 năm 1963, là một nam ca sĩ hải ngoại người Mỹ gốc Hoa nổi tiếng về dòng nhạc vàng Việt Nam và tình khúc 1954-1975",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "112",
+    "dapan": "VANMAIHUONG",
+    "tencasi": "Văn Mai Hương",
+    "goiy": "Ca sĩ trẻ sinh năm 1994\nHit tiêu biểu: \"Nếu như anh đến\", \"Ngày chung đôi\".",
+    "theloai": "Ca sĩ"
+  },
+  {
+    "id": "113",
+    "dapan": "VUCATTUONG",
+    "tencasi": "Vũ Cát Tường",
+    "goiy": "Vũ Cát Tường được biết đến với khả năng sáng tác đa dạng theo các thể loại như : R&B, Alternative Rock, Blues, Pop, Ballad, Neo-soul. Ngoài ra, cô cũng từng nhận được 4 đề cử và thắng 1 lần tại giải Cống hiến.",
+    "theloai": "Ca sĩ/Nhạc sĩ"
+  }
+]
